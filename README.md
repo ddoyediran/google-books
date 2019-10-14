@@ -9,7 +9,7 @@ This is a Reactjs Web App that let you search for books listed on Google Books. 
 
 
 
-## install dependencies
+## Install dependencies
 1. Install Superagent with `npm install superagent` - this let you access/ get data you needed from the API. Read more here: https://www.npmjs.com/package/superagent
 
 2. Install Nodemon with `npm install nodemon` - It makes recompiling easier. It is optional. (Read more here: https://www.npmjs.com/package/nodemon)
